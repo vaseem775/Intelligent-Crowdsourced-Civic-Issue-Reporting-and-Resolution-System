@@ -1,2 +1,2 @@
-# Intelligent-Crowdsourced-Civic-Issue-Reporting-and-Resolution-System
+# Intelligent Crowdsourced Civic Issue Reporting and Resolution System based on Deep Learning and Machine Learning
 An Intelligent Crowdsourced Civic Issue Reporting and Resolution System — React Native mobile app with CNN-based automatic issue classification (MobileNetV2), ML priority prediction, spatial duplicate detection, Spring Boot REST API, and real-time authority dashboard. Final Year B.Tech Project — Presidency University, Bengaluru 2026.
